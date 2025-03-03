@@ -91,10 +91,14 @@ An integrated development environment (IDE) is a software platform that facilita
 importance:
 
 1.Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
+
 2.An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
 an IDE can make suggestions to complete a code statement when the developer begins typing.
+
 3.IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
+
 4.An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
+
 5.Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
@@ -152,5 +156,24 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+
+Importance:
+
+1. Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+
+2.Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+
+3. Developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Draw a picture of a cat
+
+Draw a full-body picture of a cat with white body and having spots of black colour, playing in a park with trees and grass in the background.
+
+Clarity: The improved prompt specifies what is being asked (a full-body picture) rather than just a "cat".
+
+Specific Details: Describing the cat's appearance (white body and black spots) and the setting (park, trees, grass) gives clear guidance on the image to be created.
+
+Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
